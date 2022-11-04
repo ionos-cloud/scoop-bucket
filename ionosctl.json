@@ -1,19 +1,19 @@
 {
-    "version": "6.4.0",
+    "version": "6.4.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ionos-cloud/ionosctl/releases/download/v6.4.0/ionosctl-6.4.0-windows-386.zip",
+            "url": "https://github.com/ionos-cloud/ionosctl/releases/download/v6.4.1/ionosctl-6.4.1-windows-386.zip",
             "bin": [
                 "ionosctl.exe"
             ],
-            "hash": "6a6b75a74ef4a8d7c843943b952a0fec5d5a6200ef7ca583fd31f064a0839030"
+            "hash": "4e05647ba51ee33aab3274e3917e474fd899ca4f307c8ae74cae4d9d4fe95f7e"
         },
         "64bit": {
-            "url": "https://github.com/ionos-cloud/ionosctl/releases/download/v6.4.0/ionosctl-6.4.0-windows-amd64.zip",
+            "url": "https://github.com/ionos-cloud/ionosctl/releases/download/v6.4.1/ionosctl-6.4.1-windows-amd64.zip",
             "bin": [
                 "ionosctl.exe"
             ],
-            "hash": "a72b2c5bd5ea4dd666c634f111391443f21f8769ea96393a796fc386579885a7"
+            "hash": "3fe24a8b439dc5b2e8ef64ef54d7db91b7e1bcb86c2b6519d9fa76e817b48205"
         }
     },
     "homepage": "https://github.com/ionos-cloud/ionosctl",
